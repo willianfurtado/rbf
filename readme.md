@@ -1,0 +1,1 @@
+Implementação uma Rede de Base Radial para classificação binária **sem utilizar uma implementação pronta de RBF**.g
